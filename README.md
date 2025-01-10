@@ -11,21 +11,7 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-Follow these steps to set up and run the project:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd <project-folder>
-   ```
-
-3. Install the required dependencies listed in `package.json`:
+Install the required dependencies listed in `package.json`:
 
    ```bash
    npm install
